@@ -1,6 +1,6 @@
-# TodoApp
+# To Do List App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+A simple To Do List App built in Angular
 
 ## Development server
 
