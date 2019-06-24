@@ -1,6 +1,6 @@
 # To Do List App
 
-A simple To Do List App built in Angular
+A simple To Do List App built in Angular to better understand the framework
 
 ## Development server
 
